@@ -1,0 +1,10 @@
+## Interface: 11304
+## Version: 1.0
+## Title: Overseer
+## Author: Vinneg
+## Notes: Raid fail overseer. Type /osr to command list
+## SavedVariables: OverseerStore
+
+Embeds.xml
+locale\locale.xml
+Core.lua
